@@ -19,5 +19,4 @@ button.onclick = function(){
             behavior: 'smooth'
         });
     }
-    else return;
 }
